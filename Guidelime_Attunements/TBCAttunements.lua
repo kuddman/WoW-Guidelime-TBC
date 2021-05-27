@@ -16,7 +16,7 @@ Guidelime.registerGuide(
 [OC] -----------------------------------------------
 [OC] -----------------------------------------------
 [OC] Go to *Hellfire Ramparts* (60-62) in Hellfire Citadel [G 47.65, 53.58 Hellfire Peninsula]
-[OC] Go to *Blood Furnace* in Hellfire Citadel [G 45.9, 51.8 Hellfire Peninsula]
+[OC] Go to *Blood Furnace* (61-63) in Hellfire Citadel [G 45.9, 51.8 Hellfire Peninsula]
 [OC] Grind Honor Hold reputation (honored): *Hellfire Ramparts*, *Blood Furnace* [REP Honor Hold 9000]
 [OC] -----------------------------------------------
 [OC] -----------------------------------------------
@@ -48,7 +48,7 @@ Guidelime.registerGuide(
 [OC] Hearth to [H Honor Hold]
 [OC] Go back to *Gunny* in the main fort [G 56, 66 Hellfire Peninsula]
 [OC] Turn in [QT9575] and accept [QA9589][QA9607]
-[OC] Go to *Blood Furnace* in Hellfire Citadel [G 45.9, 51.8 Hellfire Peninsula]
+[OC] Go to *Blood Furnace* (61-63) in Hellfire Citadel [G 45.9, 51.8 Hellfire Peninsula]
 [OC] Finish [QC9589] and explore the room of the last boss for [QC9607]
 [OC] Hearth to [H Honor Hold]
 [OC] Sell/Repair at *Logistics Officer Ulrike* [G 56.7,62.6 Hellfire Peninsula] [V] [R]
