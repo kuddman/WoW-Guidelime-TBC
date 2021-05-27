@@ -1,0 +1,8 @@
+## Title: Guidelime_Attunements
+## Author: kuddman
+## Version: 0.1
+## Interface: 20501
+## Dependencies: Guidelime
+## Notes: Guide for dungeon levelling in TBC
+
+TBCAttunements.lua
