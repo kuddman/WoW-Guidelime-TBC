@@ -61,6 +61,7 @@ Guidelime.registerGuide(
 [OC] -----------------------------------------------
 [OC] Go to [G 25.22,37.11 Hellfire Peninsula] and get the flight point [P Temple of Telhamat]
 [OC] Go to Zangarmarsh [G 9.8,50.8 Hellfire Peninsula]
+[OC] *The following quests are optional, skip if quest mob has to respawn*
 [OC] In Cenarion Refuge go to *Windcaller Blackhoof* at [G 80.4,64.6 Zangarmarsh] and accept [QA9785]
 [OC] Sell/Repair at *Fedryen Swiftspear* [G 79,64 Zangarmarsh] [V] [R]
 [OC] At [G 79.07,64.95 Zangarmarsh], at the wanted poster, get [QA9730] [QA9817]
