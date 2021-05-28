@@ -304,13 +304,15 @@ Guidelime.registerGuide(
 --[OC] Start the quest chain [QA10587] which starts at *Larissa Sunstrike* (Scryers) at [G 55.6,58.2 Shadowmoon Valley]
 --[OC] or *Exarch Onaala* (Aldor) at [G 61.2,29.2 Shadowmoon Valley] *notable quest rewards*
 [OC]--
-[OC] Start the quest chain [QA10680] which starts at *Earthmender Sophurus* at [G 36.4,56.8 Shadowmoon Valley] *notable quest rewards*
+[OC] Start the quest chain [QA10680] which starts at *Earthmender Sophurus* at [G 36.4,56.8 Shadowmoon Valley] *notable quest rewards* *Fire resistance Amulet*
+[OC]--
+[OC] Start the quest chain [QA10810] by looting [CI31120] from *Wyrmcult Poacher* or *Wyrmcult Poacher* at around [G 60.2,37.6 Blades Edge Mountains] *notable quest rewards* *Fire resistance Cloak*
 [OC]--
 [OC] Start the quest chain [QA9982] which starts at *Huntress Kima* at around [G 54,72.2 Nagrand] *notable quest rewards*
 [OC]--
 [OC] Start the quest chain [QA11045] which starts at *Fantei* at around [G 64.6,70.2 Shattrath City] *notable quest rewards*
 [OC]--
-[OC] Start the quest chain [QA10810] by looting [CI10810] from at around [G 69.4,35.8 Blades Edge Mountains] *notable quest rewards*
+[OC] Start the quest chain [QA10810] by looting [CI31384] from *Fel Corrupter* at around [G 69.4,35.8 Blades Edge Mountains] *notable quest rewards*
 [OC]--
 [OC] Start the quest chain [QA10290] which starts at *Zuben Elgenubi* at around [G 44,36 Netherstorm] *notable quest rewards*
 [OC]--
@@ -319,6 +321,8 @@ Guidelime.registerGuide(
 [OC] Start the quest chain [QA11044] which starts at *Seer Jovar* at [G 55.4,68.6 Nagrand] *notable quest rewards*
 [OC]--
 [OC] Start the quest chain [QA10750] which starts at *Thane Yoregar* at [G 36.2,57 Shadowmoon Valley] *notable quest rewards*
+[OC]--
+[OC] Start the quest chain [QA9962] which starts at *Gurgthock* at [G 42.8,20.8 Nagrand] *notable quest rewards*
 [OC]--
 [OC] Start the quest chain [QA9962] which starts at *Gurgthock* at [G 42.8,20.8 Nagrand] *notable quest rewards*
 [OC]--
