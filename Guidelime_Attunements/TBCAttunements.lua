@@ -308,8 +308,6 @@ Guidelime.registerGuide(
 [OC]--
 [OC] After the previous Quest chain, you can start the *Trial of the Naaru* quests [QA10884] [QA10885] [QA10886] [QA10888] obtained from *Khadgar* at [G 54.8, 44.6 Shattrath City] to obtain *The Tempest Key*
 [OC]--
-[OC] Start the quest chain [QA10810] by looting [CI31120] from *Wyrmcult Poacher* or *Wyrmcult Poacher* at around [G 60.2,37.6 Blades Edge Mountains] *notable quest rewards* *Fire resistance Cloak*
-[OC]--
 [OC] Start the quest chain [QA9982] which starts at *Huntress Kima* at around [G 54,72.2 Nagrand] *notable quest rewards*
 [OC]--
 [OC] Start the quest chain [QA11045] which starts at *Fantei* at around [G 64.6,70.2 Shattrath City] *notable quest rewards*
@@ -326,7 +324,7 @@ Guidelime.registerGuide(
 [OC]--
 [OC] Start the quest chain [QA9962] which starts at *Gurgthock* at [G 42.8,20.8 Nagrand] *notable quest rewards*
 [OC]--
-[OC] Start the quest chain [QA9962] which starts at *Gurgthock* at [G 42.8,20.8 Nagrand] *notable quest rewards*
+[OC] Start the quest chain [QA10810] by looting [CI31120] from *Wyrmcult Poacher* or *Wyrmcult Poacher* at around [G 60.2,37.6 Blades Edge Mountains] *Fire resistance Cloak*
 [OC]--
 
 ]], "Attunement Guide")
