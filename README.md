@@ -1,6 +1,6 @@
 # WoW-Guidelime-TBC
 This is a guide I wrote for the World of Warcraft TBC Classic addon Guidelime for levelling from 60 to 70 through dungeons as a group avoiding any outside questing. Hopefully it can be of use to someone else. Feel free to modify it.
-The whole folder into your WoW Interface\AddOns\ folder (outside the Guidelime addon folder)
+The whole folder needs to go into your WoW Interface\AddOns\ folder (outside the Guidelime addon folder)
 
 Unfortunately, the guide only works as Alliance.
 
